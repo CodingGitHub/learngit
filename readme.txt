@@ -9,4 +9,3 @@ Git is free software distributed under the GPL.
 支付宝钱包
 git has a mutable index called stage.
 git track changes of files.
-my stupid boss still prefer svn.
