@@ -6,4 +6,5 @@ git is a free software.
 I like do it.
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
+支付宝钱包
 
