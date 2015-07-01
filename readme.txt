@@ -11,3 +11,5 @@ git track changes of files.
 
 第一次学会了使用github 好开心啊
 create a new branch is quick!
+
+gui 操作
