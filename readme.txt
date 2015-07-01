@@ -1,4 +1,4 @@
-Git is a version control system.
+﻿Git is a version control system.
 Git is free software.
 this file will be update.
 git is a distributed version control system.
@@ -10,3 +10,4 @@ git has a mutable index called stage.
 git track changes of files.
 
 第一次学会了使用github 好开心啊
+create a new branch is quick!
